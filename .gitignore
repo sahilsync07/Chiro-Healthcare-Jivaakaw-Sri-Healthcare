@@ -1,6 +1,6 @@
 node_modules/
-package.json
-package-lock.json
 *.cjs
 chiro_sbi_extracted.txt
 jivaakaw_icici_extracted.txt
+frontend/node_modules/
+frontend/dist/
