@@ -3,6 +3,14 @@ import { categories, txns, officialTotals } from './data.js';
 const fmt = v => '₹' + v.toLocaleString('en-IN');
 const sum = arr => arr.reduce((a, t) => a + t[4], 0);
 
+const formatDateYY = dateStr => {
+  const parts = dateStr.split('-');
+  if (parts.length === 3 && parts[2].length === 4) {
+    return `${parts[0]}-${parts[1]}-${parts[2].slice(-2)}`;
+  }
+  return dateStr;
+};
+
 const sbiTotal = officialTotals.sbi;
 const iciciTotal = officialTotals.icici;
 
@@ -153,7 +161,7 @@ async function render() {
       const tbody = chunk.map((r, idx) => `
         <tr>
           <td style="text-align: center;">${rowIndex + idx + 1}</td>
-          <td>${r.date}</td>
+          <td>${formatDateYY(r.date)}</td>
           <td style="font-weight: 500; word-break: break-word;">${r.desc}</td>
           <td style="font-family: 'JetBrains Mono', monospace; font-size: 9px; word-break: break-all;">${r.ref}</td>
           <td>${r.mode}</td>

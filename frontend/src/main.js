@@ -6,6 +6,14 @@ import xlsxData from './xlsx_data.json';
 const fmt = v => '₹' + v.toLocaleString('en-IN');
 const sum = arr => arr.reduce((a, t) => a + t[4], 0);
 
+const formatDateYY = dateStr => {
+  const parts = dateStr.split('-');
+  if (parts.length === 3 && parts[2].length === 4) {
+    return `${parts[0]}-${parts[1]}-${parts[2].slice(-2)}`;
+  }
+  return dateStr;
+};
+
 // --- Hero Stats ---
 const sbiTotal = officialTotals.sbi, iciciTotal = officialTotals.icici;
 document.getElementById('heroStats').innerHTML = `
@@ -42,7 +50,7 @@ document.getElementById('checksumSection').innerHTML = makeChecksum('Chiro Healt
 // --- Category Tabs ---
 const makeBankTable = (rows, color) => {
   if (!rows.length) return '<div class="no-data">No transactions in this bank</div>';
-  const tbody = rows.map(r => `<tr><td>${r[0]}</td><td>${r[1]}</td><td class="utr">${r[2]}</td><td><span class="mode-badge">${r[3]}</span></td><td style="color:${color}">${fmt(r[4])}</td><td class="stmt-ref" style="font-weight: 500; font-size: 0.85em; color: #6b7280;">${r[5] || 'N/A'}</td></tr>`).join('');
+  const tbody = rows.map(r => `<tr><td>${formatDateYY(r[0])}</td><td>${r[1]}</td><td class="utr">${r[2]}</td><td><span class="mode-badge">${r[3]}</span></td><td style="color:${color}">${fmt(r[4])}</td><td class="stmt-ref" style="font-weight: 500; font-size: 0.85em; color: #6b7280;">${r[5] || 'N/A'}</td></tr>`).join('');
   return `<div class="txn-table-wrap"><table class="txn-table"><thead><tr><th>Date</th><th>Particular</th><th>UTR / Ref</th><th>Mode</th><th>Amount</th><th>Statement Ref</th></tr></thead><tbody>${tbody}</tbody></table></div>`;
 };
 
