@@ -449,7 +449,11 @@ function switchTab(tabId) {
   window.scrollTo({ top: (tabId === 'overview' || tabId === 'about') ? 0 : document.querySelector('.main-content').offsetTop - 80, behavior: 'smooth' });
 }
 
-links.forEach(l => l.addEventListener('click', e => { e.preventDefault(); switchTab(l.dataset.tab); }));
+links.forEach(l => l.addEventListener('click', e => {
+  if (!l.dataset.tab) return;
+  e.preventDefault();
+  switchTab(l.dataset.tab);
+}));
 document.querySelectorAll('[data-goto]').forEach(el => el.addEventListener('click', () => switchTab(el.dataset.goto)));
 toggle.addEventListener('click', () => { navLinks.classList.toggle('open'); toggle.classList.toggle('active'); });
 
