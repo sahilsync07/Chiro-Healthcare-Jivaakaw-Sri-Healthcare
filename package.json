@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "pdf-parse": "^2.4.5",
-    "pdfjs-dist": "^4.0.379"
+    "pdfjs-dist": "^4.0.379",
+    "xlsx": "^0.18.5"
   }
 }

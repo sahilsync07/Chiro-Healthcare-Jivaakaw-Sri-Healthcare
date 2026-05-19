@@ -1,0 +1,1848 @@
+{
+  "Sheet1": [
+    [
+      "Year",
+      "Month",
+      "Date",
+      "Expense made by",
+      "Expense particular",
+      "Amount",
+      "Sub-total",
+      "OkCredit"
+    ],
+    [
+      2025,
+      "March",
+      45719,
+      "Hitesh",
+      "Paid full final amount to Jain Distributor for AC purchase",
+      34000,
+      34000
+    ],
+    [
+      null,
+      "February",
+      45701,
+      "Hitesh",
+      "Behera Pharma",
+      2500,
+      2500
+    ],
+    [
+      null,
+      "January",
+      45664,
+      "Slnp",
+      "Transfer to chiro healthcare (own sbi to sbi)",
+      60000
+    ],
+    [
+      null,
+      null,
+      45666,
+      "Slnp",
+      "Transfer to chiro from own sbi",
+      260000
+    ],
+    [
+      null,
+      null,
+      45659,
+      "Hitesh",
+      "Paid salary to Tirupati Behera",
+      10000
+    ],
+    [
+      null,
+      null,
+      45667,
+      "Hitesh",
+      "Paid CC point room rent for the month Dec-2025",
+      12000
+    ],
+    [
+      null,
+      null,
+      45680,
+      "Hitesh",
+      "Paid to \"G Kranti\" for Board Installation Charges (CC Point)",
+      11500
+    ],
+    [
+      null,
+      null,
+      45682,
+      "Hitesh",
+      "Paid drug licence bribe charges",
+      30000,
+      383500
+    ],
+    [
+      "2\n0\n2\n4",
+      "December",
+      45628,
+      "Hitesh",
+      "Paid Salary for the month of sep-2024",
+      10000
+    ],
+    [
+      null,
+      null,
+      45630,
+      "Hitesh",
+      "Paid to Durga Prasad Pandit for Petty Cash",
+      15000
+    ],
+    [
+      null,
+      null,
+      45632,
+      "Slnp",
+      "Transfer to Chiro from own sbi (For salary and bank interest)",
+      250000
+    ],
+    [
+      null,
+      null,
+      45654,
+      "Hitesh",
+      "Paid for guest house AC and X-ray room AC part amount (Air Conditioner)",
+      50000
+    ],
+    [
+      null,
+      null,
+      45654,
+      "Hitesh",
+      "Paid for bribe to drug office for licence",
+      20000
+    ],
+    [
+      null,
+      null,
+      45618,
+      "Hitesh",
+      "Paid two month payment to CC point pharmacy (Pradeep ku Behera)",
+      5000,
+      350000
+    ],
+    [
+      null,
+      "November",
+      45597,
+      "Hitesh",
+      "Paid salary to Tirupati",
+      10000
+    ],
+    [
+      null,
+      null,
+      45570,
+      "Hitesh",
+      "Cash Deposit [Bank deposit for clinical Establishment charges]",
+      25000
+    ],
+    [
+      null,
+      null,
+      45573,
+      "Hitesh",
+      "Cash Recieved for bank cash deposit",
+      3000
+    ],
+    [
+      null,
+      null,
+      45581,
+      "Hitesh",
+      "Cash Received for Lab petty Cash expenses",
+      1000
+    ],
+    [
+      null,
+      null,
+      45600,
+      "Hitesh",
+      "Cash Received for Lab petty cash expenses ",
+      8000
+    ],
+    [
+      null,
+      null,
+      45604,
+      "Hitesh",
+      "Cash Received for Lab petty cash expenses",
+      30000
+    ],
+    [
+      null,
+      null,
+      45609,
+      "Slnp",
+      "Transfer to chiro LLP (ICICI to SBI Chiro)",
+      90000
+    ],
+    [
+      null,
+      null,
+      45612,
+      "Slnp",
+      "Transfer to Jivaka ICICI (ICICI to ICICI)",
+      15000
+    ],
+    [
+      null,
+      null,
+      45612,
+      "Slnp",
+      "Transfer to Chiro LLP for Salary (ICICI to SBI)",
+      150000
+    ],
+    [
+      null,
+      null,
+      45612,
+      "Slnp",
+      "Transfer to Chiro LLP for Salary (SBI to SBI)",
+      30000
+    ],
+    [
+      null,
+      null,
+      45617,
+      "Hitesh",
+      "Cash paid for referral fees and other petty cash",
+      6300
+    ],
+    [
+      null,
+      null,
+      45616,
+      "Hitesh",
+      "Cash paid for petty cash expenses",
+      2000
+    ],
+    [
+      null,
+      null,
+      45617,
+      "Hitesh",
+      "Paid advance salary to Nalini Pavar",
+      10000
+    ],
+    [
+      null,
+      null,
+      45619,
+      "Hitesh",
+      "Hotel bill of Laxman Sir",
+      9668
+    ],
+    [
+      null,
+      null,
+      45624,
+      "Hitesh",
+      "For Lab petty cash expenses (Durga Prasad Pandit)",
+      10000
+    ],
+    [
+      null,
+      null,
+      45625,
+      "Hitesh",
+      "Paid CC Point House Rent to land lord",
+      12000
+    ],
+    [
+      null,
+      null,
+      45625,
+      "Slnp",
+      "Paid for Rent for ICICI A/C to Jivakaw A/C",
+      15000
+    ],
+    [
+      null,
+      null,
+      45624,
+      "Slnp",
+      "For rent transfer to Chiro LLP SBI",
+      45000
+    ],
+    [
+      null,
+      null,
+      45621,
+      "Hitesh",
+      "Paid towards furniture making at x-ray room (A Shankar Rao Carpenter)",
+      12616
+    ],
+    [
+      null,
+      null,
+      45608,
+      "Hitesh",
+      "Advance fees for Nofenx Leese Agreement Copy of CC point",
+      500
+    ],
+    [
+      null,
+      null,
+      45611,
+      "Hitesh",
+      "Advance fees for Nofenx of Drug License doctors",
+      300
+    ],
+    [
+      null,
+      null,
+      45608,
+      "Hitesh",
+      "Lease agreement drafting Advocate fees",
+      150
+    ],
+    [
+      null,
+      null,
+      45610,
+      "Hitesh",
+      "Cash paid to Hitesh for accomodation and fuel of chandra sekhar sir",
+      10000
+    ],
+    [
+      null,
+      null,
+      45625,
+      "Slnp",
+      "For payment of electrical bill amount transfer amount from sir SBI to CHIRO SBI",
+      20000,
+      515534
+    ],
+    [
+      null,
+      "October",
+      45566,
+      "Hitesh",
+      "Salary Paid to Tirupati",
+      10000
+    ],
+    [
+      null,
+      null,
+      45569,
+      "Hitesh",
+      "Paid to Gupta Electrical (Part payment)",
+      15000
+    ],
+    [
+      null,
+      null,
+      45581,
+      "Hitesh",
+      "Paid to Furniture shop M Maleswar",
+      26000
+    ],
+    [
+      null,
+      null,
+      45584,
+      "Hitesh",
+      "Paid to Gupta Electrical final amount",
+      16237
+    ],
+    [
+      null,
+      null,
+      45584,
+      "Hitesh",
+      "Paid to Jain Enterprises A/C",
+      58000
+    ],
+    [
+      null,
+      null,
+      45586,
+      "Slnp",
+      "Paid to Chiro LLP for loan repayment",
+      50000
+    ],
+    [
+      null,
+      null,
+      45587,
+      "Hitesh",
+      "Paid to CC point house rent to the landlord",
+      12000,
+      187237
+    ],
+    [
+      null,
+      "September",
+      45324,
+      "Hitesh",
+      "Paid salary to Tirupati",
+      10000
+    ],
+    [
+      null,
+      null,
+      45546,
+      "Slnp",
+      "For Salary from SLN Patro A/C Union Bank",
+      100000
+    ],
+    [
+      null,
+      null,
+      45558,
+      "Hitesh",
+      "Paid to Marble House for Jivakaw",
+      18000
+    ],
+    [
+      null,
+      null,
+      45546,
+      "Hitesh",
+      "Paid to G Umashankar Landlord of CC point House Rent",
+      12000,
+      140000
+    ],
+    [
+      null,
+      "5th Aug 2024 \n- \n31st Aug 2024",
+      45509,
+      "Slnp",
+      "For Salary my acc to chiro",
+      72841
+    ],
+    [
+      null,
+      null,
+      45506,
+      "Hitesh",
+      "Paid Salary to Tirupati",
+      10000
+    ],
+    [
+      null,
+      null,
+      45511,
+      "Hitesh",
+      "For Making two iron stand (Battery)",
+      9500
+    ],
+    [
+      null,
+      null,
+      45514,
+      "Hitesh",
+      "Purchase of electrical items",
+      3930
+    ],
+    [
+      null,
+      null,
+      45524,
+      "Hitesh",
+      "Steel Material purchase for bio chemistry stand",
+      10000
+    ],
+    [
+      null,
+      null,
+      45524,
+      "Hitesh",
+      "Steel Stand Making charges",
+      6000
+    ],
+    [
+      null,
+      null,
+      45524,
+      "Hitesh",
+      "All shutter Greecing charges",
+      1000
+    ],
+    [
+      null,
+      null,
+      45524,
+      "Hitesh",
+      "Purchase of greeseing items",
+      1000
+    ],
+    [
+      null,
+      null,
+      45521,
+      "Hitesh",
+      "Water testing charges paid to executive engineer",
+      1780
+    ],
+    [
+      null,
+      null,
+      45527,
+      "Hitesh",
+      "purchase of marbles and kadepa for bio chemistry stand",
+      5500
+    ],
+    [
+      null,
+      null,
+      45518,
+      "Hitesh",
+      "Rubber mat purchase for ups battery stand",
+      2200
+    ],
+    [
+      null,
+      null,
+      45518,
+      "Hitesh",
+      "Purchase of 2 litres thinner",
+      200
+    ],
+    [
+      null,
+      null,
+      45520,
+      "Hitesh",
+      "Purchase of switch and socket (Legrand)",
+      680
+    ],
+    [
+      null,
+      null,
+      45520,
+      "Hitesh",
+      "Petrol purchase (Tirupati)",
+      150
+    ],
+    [
+      null,
+      null,
+      45527,
+      "Hitesh",
+      "Purchase of stamp paper for Drug License",
+      100
+    ],
+    [
+      null,
+      null,
+      45532,
+      "Hitesh",
+      "Paid 5th floor room rent (Aug 2024)",
+      5000
+    ],
+    [
+      null,
+      null,
+      45532,
+      "Hitesh",
+      "Paid 5th floor room advance",
+      10000
+    ],
+    [
+      null,
+      null,
+      45532,
+      "Hitesh",
+      "Jivaakaw Sri Health Care Trade License fee ",
+      1200
+    ],
+    [
+      null,
+      null,
+      45532,
+      "Hitesh",
+      "Recharge of Jio Wi-fi (Jivaakaw)",
+      596
+    ],
+    [
+      null,
+      null,
+      45532,
+      "Hitesh",
+      "Paid Security deposit of 10 Jio Sims",
+      3490
+    ],
+    [
+      null,
+      null,
+      45531,
+      "Hitesh",
+      "Purchase water bottles and plates",
+      190
+    ],
+    [
+      null,
+      null,
+      45531,
+      "Hitesh",
+      "Purchase of 4 fold files 2nos",
+      80
+    ],
+    [
+      null,
+      null,
+      45532,
+      "Hitesh",
+      "Paid CC point rent for the month July 2024",
+      12000
+    ],
+    [
+      null,
+      null,
+      45531,
+      "Hitesh",
+      "Purchase Pooja Items and priest fees",
+      1500
+    ],
+    [
+      null,
+      null,
+      45534,
+      "Hitesh",
+      "Purchase two door for Dr Chamber (CC Point)",
+      11984
+    ],
+    [
+      null,
+      null,
+      45531,
+      "Hitesh",
+      "Night meals for three staff",
+      310
+    ],
+    [
+      null,
+      null,
+      45534,
+      "Slnp",
+      "Paid for insurance instrument union bank to chiro healthcare",
+      20000,
+      191231
+    ],
+    [
+      null,
+      "23rd July\n - \n4th August",
+      45496,
+      "Hitesh",
+      "Fan amount for LAB",
+      12001
+    ],
+    [
+      null,
+      null,
+      45499,
+      "Slnp",
+      "From SLN Patro Union to Chiro healthcare SBI",
+      100000
+    ],
+    [
+      null,
+      null,
+      45499,
+      "Hitesh",
+      "Final amount paid to uday painter",
+      9000
+    ],
+    [
+      null,
+      null,
+      45494,
+      "Hitesh",
+      "Paint purchase for cc point work",
+      1700
+    ],
+    [
+      null,
+      null,
+      45495,
+      "Hitesh",
+      "Expenses details of Rs8670 in seperate sheet",
+      8670
+    ],
+    [
+      null,
+      null,
+      45506,
+      "Hitesh",
+      "Purchase office stationary Jivaakaw",
+      2642
+    ],
+    [
+      null,
+      null,
+      45506,
+      "Slnp",
+      "Mahalaxmi Electrical Light for Lab",
+      26950,
+      160963
+    ],
+    [
+      null,
+      "-",
+      45436,
+      "Tirupati",
+      "Setup Expenses of Transformer for Main LAB",
+      158000
+    ],
+    [
+      null,
+      null,
+      45439,
+      "Tirupati",
+      "All dues paid to Janardhan sir for granite CC point",
+      21785
+    ],
+    [
+      null,
+      null,
+      45439,
+      "Tirupati",
+      "Return of 1pc granite CC point paid to Janardhan sir",
+      250
+    ],
+    [
+      null,
+      null,
+      45445,
+      "Tirupati",
+      "Tirupati Behera Salary",
+      10000
+    ],
+    [
+      null,
+      null,
+      45450,
+      "Slnp",
+      "Slnp to SBI Chiro LLP",
+      50000
+    ],
+    [
+      null,
+      null,
+      45457,
+      "Tirupati",
+      "Paid to Dolphin cleeny",
+      14000
+    ],
+    [
+      null,
+      null,
+      45461,
+      "Tirupati",
+      "Paid to Laxminarayan Industries for 2nd floor shutter work",
+      20000
+    ],
+    [
+      null,
+      null,
+      45474,
+      "Tirupati",
+      "Tirupati Salary",
+      10000
+    ],
+    [
+      null,
+      null,
+      45474,
+      "Tirupati",
+      "CC Point AC transport auto charges",
+      200
+    ],
+    [
+      null,
+      null,
+      45481,
+      "Slnp",
+      "From SLN Patro Union to Chiro healthcare SBI",
+      50000
+    ],
+    [
+      null,
+      null,
+      45491,
+      "Slnp",
+      "Furniture transport from vizag phonepe sento to harsh",
+      14400
+    ],
+    [
+      null,
+      null,
+      45487,
+      "Tirupati",
+      "Lab expenses",
+      2800
+    ],
+    [
+      null,
+      null,
+      45488,
+      "Tirupati",
+      "Hour of six chairs for 58 days",
+      1400
+    ],
+    [
+      null,
+      null,
+      45482,
+      "Tirupati",
+      "Purchase of 6nos for LAB staff",
+      179
+    ],
+    [
+      null,
+      null,
+      45482,
+      "Tirupati",
+      "Durga Prasad Pandit",
+      1610
+    ],
+    [
+      null,
+      null,
+      45489,
+      "Tirupati",
+      "M Hitesh Kumar",
+      8725
+    ],
+    [
+      null,
+      null,
+      45474,
+      "Tirupati",
+      "Tusar Nimalpuri",
+      2345
+    ],
+    [
+      null,
+      null,
+      45481,
+      "Tirupati",
+      "For recharge of office postpaid phone",
+      464.75,
+      366158.75
+    ],
+    [
+      null,
+      "6th March 2024\n-\n22nd May 2024",
+      45357,
+      "Hitesh",
+      "Paid to Udaya CC point painting work",
+      3000
+    ],
+    [
+      null,
+      null,
+      45363,
+      "Hitesh",
+      "Paid to Udaya for CC point work",
+      3000
+    ],
+    [
+      null,
+      null,
+      45374,
+      "Hitesh",
+      "Paid to Shiridi Sai Hardware through Udaya painter for CC point",
+      31300
+    ],
+    [
+      null,
+      null,
+      45374,
+      "Hitesh",
+      "Paid to Udaya for CC point",
+      9700
+    ],
+    [
+      null,
+      null,
+      45382,
+      "Hitesh",
+      "For day to day expenses",
+      1000
+    ],
+    [
+      null,
+      null,
+      45384,
+      "Hitesh",
+      "Salary ",
+      10000
+    ],
+    [
+      null,
+      null,
+      45384,
+      "Slnp",
+      "From SLN Patro to Chiro healthcare SBI",
+      50000
+    ],
+    [
+      null,
+      null,
+      45389,
+      "Hitesh",
+      "Paid to Jagadish Electrical",
+      4000
+    ],
+    [
+      null,
+      null,
+      45395,
+      "Hitesh",
+      "Paid to Suresh CA Income Tax",
+      1600
+    ],
+    [
+      null,
+      null,
+      45397,
+      "Hitesh",
+      "Paid to Hitesh for New JIO SIM",
+      1100
+    ],
+    [
+      null,
+      null,
+      45403,
+      "Hitesh",
+      "Paid for Taiyo Lab Pamplet print",
+      4000
+    ],
+    [
+      null,
+      null,
+      45414,
+      "Hitesh",
+      "Salary of Tirupati Behera",
+      10000
+    ],
+    [
+      null,
+      null,
+      45423,
+      "Hitesh",
+      "Paid to M Hari Electrician after 4nos Havell light and fitting charges",
+      2600
+    ],
+    [
+      null,
+      null,
+      45427,
+      "Hitesh",
+      "Paid to Udaya final payment of painting cc point",
+      36000
+    ],
+    [
+      null,
+      null,
+      45431,
+      "Hitesh",
+      "Travel exp of 3 person Dr Harsh, Lokanatha and Gangadhar",
+      9827
+    ],
+    [
+      null,
+      null,
+      45432,
+      "Hitesh",
+      "Purchase water can and dispenser for lab staff (guest room)",
+      400
+    ],
+    [
+      null,
+      null,
+      45433,
+      "Hitesh",
+      "Final amount paid to Mahalaxmi Enterprises Hardware Rgda",
+      37980
+    ],
+    [
+      null,
+      null,
+      45434,
+      "Hitesh",
+      "Paid purchase of white board/pen.duster for lab staff",
+      1612,
+      217119
+    ],
+    [
+      null,
+      "30th January 2024\n-\n9th February 2024",
+      45321,
+      "Tirupati",
+      "Paid to koti electrical supervisor",
+      15000
+    ],
+    [
+      null,
+      null,
+      45325,
+      "Tirupati",
+      "Paid to udaya 3000 and koti 13000",
+      16000
+    ],
+    [
+      null,
+      null,
+      45327,
+      "Tirupati",
+      "tiles for medicine store",
+      5400
+    ],
+    [
+      null,
+      null,
+      45327,
+      "Tirupati",
+      "Tirupati Salary",
+      10000
+    ],
+    [
+      null,
+      null,
+      45331,
+      "Tirupati",
+      "Paid K Satya Narayana Electrical",
+      10000
+    ],
+    [
+      null,
+      null,
+      45335,
+      "Tirupati",
+      "Tile work of Medical Store",
+      4700
+    ],
+    [
+      null,
+      null,
+      45349,
+      "Tirupati",
+      "Paid to Uday for CC point painting work",
+      5000
+    ],
+    [
+      null,
+      null,
+      45352,
+      "Tirupati",
+      "Salary of Tirupati Behera",
+      10000
+    ],
+    [
+      null,
+      null,
+      45353,
+      "Tirupati",
+      "Paid to Udaya painter lab work",
+      41324
+    ],
+    [
+      null,
+      null,
+      45331,
+      "Slnp",
+      "Transfer for CHIRO Healthcare LLP",
+      100000,
+      217424
+    ],
+    [
+      null,
+      "22nd January 2024\n-\n27th January 2024",
+      45313,
+      "Tirupati",
+      "Jagadish Electrician Taken",
+      2000
+    ],
+    [
+      null,
+      null,
+      45313,
+      "Tirupati",
+      "Jagadish Electrician Taken",
+      10000
+    ],
+    [
+      null,
+      null,
+      45316,
+      "Tirupati",
+      "Paid to Kotti Ceiling Work",
+      49000
+    ],
+    [
+      null,
+      null,
+      45317,
+      "Tirupati",
+      "Tirupati",
+      5000
+    ],
+    [
+      null,
+      null,
+      45318,
+      "Tirupati",
+      "Paid to Jagadish Electrician",
+      6000,
+      72000
+    ],
+    [
+      null,
+      "19th December 2023\n-\n2nd January 2024",
+      45279,
+      "Tirupati",
+      "Paid for whitewash to Udaya",
+      60000
+    ],
+    [
+      null,
+      null,
+      45293,
+      "Tirupati",
+      "Mahalaxmi Hardware",
+      100000
+    ],
+    [
+      null,
+      null,
+      45293,
+      "Tirupati",
+      "Tirupati Salary",
+      10000,
+      170000
+    ],
+    [
+      "2\n0\n2\n3",
+      "17th November 2023\n- 18th November 2023",
+      45247,
+      "Abbas",
+      "For daily expenses of Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45248,
+      "Abbas",
+      "For puja expenses Abbas",
+      5000,
+      10000
+    ],
+    [
+      null,
+      "31st October 2023\n- 3rd November 2023",
+      45230,
+      "Tirupati",
+      "For daily allowance Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45233,
+      "Tirupati",
+      "For earthing charges and material",
+      4000,
+      9000
+    ],
+    [
+      null,
+      "3rd October 2023\n-\n18th October 2023",
+      45202,
+      "Abbas",
+      "Paid to ceiling material Koti",
+      15000
+    ],
+    [
+      null,
+      null,
+      45202,
+      "Abbas",
+      "Advance paid to painter udaya",
+      10000
+    ],
+    [
+      null,
+      null,
+      45203,
+      "Abbas",
+      "Salary abbas",
+      10000
+    ],
+    [
+      null,
+      null,
+      45203,
+      "Abbas",
+      "Advance paid to carpenter munna",
+      100000
+    ],
+    [
+      null,
+      null,
+      45204,
+      "Abbas",
+      "Advance paid to laxminarayan industries for shutter purpose",
+      25000
+    ],
+    [
+      null,
+      null,
+      45204,
+      "Abbas",
+      "For daily expenses of Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45208,
+      "Abbas",
+      "For daily expenses of Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45212,
+      "Abbas",
+      "For daily expenses of Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45212,
+      "Abbas",
+      "Advance paid to painter udaya",
+      20000
+    ],
+    [
+      null,
+      null,
+      45215,
+      "Abbas",
+      "Advance Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45215,
+      "Abbas",
+      "For daily expenses of Abbas",
+      5000
+    ],
+    [
+      null,
+      null,
+      45217,
+      "Abbas",
+      "Advance paid to koti ceiling",
+      30000
+    ],
+    [
+      null,
+      null,
+      45217,
+      "Abbas",
+      "Advance paid to satti babu electrical",
+      30000,
+      265000
+    ],
+    [
+      null,
+      "17th November 2023\n-\n11th December 2023",
+      45247,
+      "Tirupati",
+      null,
+      10500
+    ],
+    [
+      null,
+      null,
+      45251,
+      "Tirupati",
+      null,
+      10000
+    ],
+    [
+      null,
+      null,
+      45249,
+      "Tirupati",
+      null,
+      5000
+    ],
+    [
+      null,
+      null,
+      45261,
+      "Tirupati",
+      "Tirupati Behera Salary + gst rs4000 expenses",
+      14000
+    ],
+    [
+      null,
+      null,
+      45271,
+      "Tirupati",
+      "Lab expenses, agreement and registration",
+      48610,
+      88110
+    ],
+    [
+      null,
+      "1st October 2023\n- 1st November 2023",
+      45200,
+      "Tirupati",
+      "Advance payment to ceiling",
+      20000
+    ],
+    [
+      null,
+      null,
+      45231,
+      "Tirupati",
+      null,
+      25000,
+      45000
+    ],
+    [
+      null,
+      null,
+      45153,
+      null,
+      "Mahalaxmi Hardware",
+      100000,
+      100000
+    ],
+    [
+      null,
+      null,
+      45154,
+      null,
+      "Jain Enterprises",
+      50000,
+      50000,
+      45174
+    ],
+    [
+      null,
+      null,
+      45175,
+      null,
+      "Ceiling Material",
+      49865,
+      49865
+    ],
+    [
+      null,
+      null,
+      45208,
+      null,
+      "Marble House",
+      42000,
+      42000,
+      45208
+    ],
+    [
+      null,
+      null,
+      45241,
+      null,
+      "Mahalaxmi Hardware",
+      100000,
+      100000
+    ],
+    [
+      null,
+      "23rd June 2023\n-\n8th August 2023",
+      45100,
+      "Tirupati",
+      null,
+      20000
+    ],
+    [
+      null,
+      null,
+      45107,
+      "Tirupati",
+      null,
+      40000
+    ],
+    [
+      null,
+      null,
+      45139,
+      "Tirupati",
+      null,
+      10000
+    ],
+    [
+      null,
+      null,
+      45145,
+      "Tirupati",
+      null,
+      50000
+    ],
+    [
+      null,
+      null,
+      45146,
+      "Tirupati",
+      null,
+      10000,
+      130000
+    ],
+    [
+      null,
+      "8th August 2023\n-\n5th November 2023",
+      45146,
+      "Abbas",
+      null,
+      10000
+    ],
+    [
+      null,
+      null,
+      45147,
+      "Abbas",
+      null,
+      15000
+    ],
+    [
+      null,
+      null,
+      45150,
+      "Abbas",
+      null,
+      25000
+    ],
+    [
+      null,
+      null,
+      45152,
+      "Abbas",
+      null,
+      25000
+    ],
+    [
+      null,
+      null,
+      45154,
+      "Abbas",
+      null,
+      5000
+    ],
+    [
+      null,
+      null,
+      45156,
+      "Abbas",
+      null,
+      5000
+    ],
+    [
+      null,
+      null,
+      45159,
+      "Abbas",
+      null,
+      50000
+    ],
+    [
+      null,
+      null,
+      45161,
+      "Abbas",
+      null,
+      10000
+    ],
+    [
+      null,
+      null,
+      45171,
+      "Abbas",
+      null,
+      10000
+    ],
+    [
+      null,
+      null,
+      45174,
+      "Abbas",
+      "Abbas advance 1 Lakh paid to carpenter Tuttu Ram (Munna)",
+      30000,
+      185000,
+      45184
+    ],
+    [
+      null,
+      null,
+      45184,
+      null,
+      "Mahalaxmi Hardware",
+      100000,
+      100000
+    ],
+    [
+      null,
+      null,
+      45185,
+      null,
+      "Sima sahu add civil work",
+      95708,
+      95708,
+      45186
+    ],
+    [
+      null,
+      null,
+      45199,
+      null,
+      "Gupta Electrical MCB Bills",
+      23296,
+      23296,
+      45199
+    ],
+    [
+      null,
+      "8th September 2023\n-\n26th September 2023",
+      45177,
+      "Abbas",
+      "Cash to Abbas",
+      25000
+    ],
+    [
+      null,
+      null,
+      45178,
+      "Abbas",
+      "Cash to Abbas",
+      10000
+    ],
+    [
+      null,
+      null,
+      45185,
+      "Abbas",
+      "Cash to Abbas - Carpenter munna 20k, Ceiling Koti 20k, Abbas 10k",
+      50000
+    ],
+    [
+      null,
+      null,
+      45186,
+      "Abbas",
+      "Cash to Abbas, Adv to tiles alam",
+      10000
+    ],
+    [
+      null,
+      null,
+      45187,
+      "Abbas",
+      "Cash to Abbas daily expenses",
+      20000
+    ],
+    [
+      null,
+      null,
+      45193,
+      "Abbas",
+      "Cash to Abbas",
+      10000
+    ],
+    [
+      null,
+      null,
+      45195,
+      "Abbas",
+      "Cash to Abbas",
+      10000
+    ],
+    [
+      null,
+      null,
+      45195,
+      "Abbas",
+      "Cash to Abbas 15000 Md Alam, 10000 purchasing Commode",
+      25000,
+      160000,
+      45199
+    ],
+    [
+      null,
+      "4th September 2023\n-\n30th September 2023",
+      45173,
+      "Tirupati",
+      "Cash recieved",
+      10000
+    ],
+    [
+      null,
+      null,
+      45199,
+      "Tirupati",
+      "Cash recieved",
+      5000
+    ],
+    [
+      null,
+      null,
+      45199,
+      "Tirupati",
+      "Cash recieved",
+      20000,
+      35000,
+      45199
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4495645.75
+    ],
+    [],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Payments Not Recorded"
+    ],
+    [
+      null,
+      null,
+      45218,
+      null,
+      "Tirupati Behera Taken",
+      20000
+    ],
+    [
+      null,
+      null,
+      45175,
+      null,
+      "Additional Civil work 3rd Payment",
+      80000
+    ],
+    [
+      null,
+      null,
+      45040,
+      null,
+      "50k Sima Sahu Land Owner for additional Civil work",
+      50000
+    ],
+    [
+      null,
+      null,
+      44995,
+      null,
+      "Advocate Ramesh for lease deed registration",
+      44000
+    ],
+    [
+      null,
+      null,
+      44995,
+      null,
+      "Sima Sahu Final Advance Payment",
+      249000
+    ],
+    [
+      null,
+      null,
+      44985,
+      null,
+      "Partnership Notary",
+      300
+    ],
+    [
+      null,
+      null,
+      44961,
+      null,
+      "Er Pattnaik for Measurement",
+      2000
+    ],
+    [
+      null,
+      null,
+      44952,
+      null,
+      "Sima Sahu Advance",
+      51000
+    ],
+    [],
+    [],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Total",
+      496300,
+      496300
+    ],
+    [],
+    [],
+    [],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Grand Total",
+      null,
+      4991945.75
+    ]
+  ],
+  "Bank Transactions": [
+    [
+      45664,
+      "Slnp",
+      "Transfer to chiro healthcare (own sbi to sbi)",
+      60000
+    ],
+    [
+      45666,
+      "Slnp",
+      "Transfer to chiro from own sbi",
+      260000
+    ],
+    [
+      45632,
+      "Slnp",
+      "Transfer to Chiro from own sbi (For salary and bank interest)",
+      250000
+    ],
+    [
+      45609,
+      "Slnp",
+      "Transfer to chiro LLP (ICICI to SBI Chiro)",
+      90000
+    ],
+    [
+      45612,
+      "Slnp",
+      "Transfer to Jivaka ICICI (ICICI to ICICI)",
+      15000
+    ],
+    [
+      45612,
+      "Slnp",
+      "Transfer to Chiro LLP for Salary (ICICI to SBI)",
+      150000
+    ],
+    [
+      45612,
+      "Slnp",
+      "Transfer to Chiro LLP for Salary (SBI to SBI)",
+      30000
+    ],
+    [
+      45625,
+      "Hitesh",
+      "Paid for Rent for ICICI A/C to Jivakaw A/C",
+      15000
+    ],
+    [
+      45624,
+      "Slnp",
+      "For rent transfer to Chiro LLP SBI",
+      45000
+    ],
+    [
+      45625,
+      "Hitesh",
+      "For payment of electrical bill amount transfer amount from sir SBI to CHIRO SBI",
+      20000
+    ],
+    [
+      45586,
+      "Slnp",
+      "Paid to Chiro LLP for loan repayment",
+      50000
+    ],
+    [
+      45546,
+      "Slnp",
+      "For Salary from SLN Patro A/C Union Bank",
+      100000
+    ],
+    [
+      45509,
+      "Slnp",
+      "For Salary my acc to chiro",
+      72841
+    ],
+    [
+      45534,
+      "Hitesh",
+      "Paid for insurance instrument union bank to chiro healthcare",
+      20000
+    ],
+    [
+      45499,
+      "Hitesh",
+      "From SLN Patro Union to Chiro healthcare SBI",
+      100000
+    ],
+    [
+      45450,
+      null,
+      "Slnp to SBI Chiro LLP",
+      50000
+    ],
+    [
+      45481,
+      "Slnp",
+      "From SLN Patro Union to Chiro healthcare SBI",
+      50000
+    ],
+    [
+      45491,
+      "Slnp",
+      "Furniture transport from vizag phonepe sento to harsh",
+      14400
+    ],
+    [
+      45384,
+      "Hitesh",
+      "From SLN Patro to Chiro healthcare SBI",
+      50000
+    ],
+    [
+      45331,
+      "Tirupati",
+      "Transfer for CHIRO Healthcare LLP",
+      100000
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      null,
+      null,
+      "Total",
+      1542241
+    ]
+  ]
+}

@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resignation Notice & Demand Letter - S. Lokanath Patro</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+        :root {
+            --primary-color: #1a1a1a;
+            --secondary-color: #4a4a4a;
+            --border-color: #ddd;
+            --spacing-unit: 1.5rem;
+        }
+
+        @page {
+            size: A4;
+            margin: 20mm;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.5;
+            color: var(--primary-color);
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+
+        .page-break {
+            page-break-after: always;
+        }
+
+        .container {
+            max-width: 100%;
+        }
+
+        /* Part 1: Index of Documents */
+        .index-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 0.5rem;
+        }
+
+        .index-header h1 {
+            font-size: 1.5rem;
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .index-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 11pt;
+            margin-bottom: 2rem;
+        }
+
+        .index-table th,
+        .index-table td {
+            border: 1px solid var(--border-color);
+            padding: 10px 12px;
+            text-align: left;
+        }
+
+        .index-table th {
+            background-color: #f8f9fa;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 10pt;
+        }
+
+        .index-table td:first-child {
+            width: 40px;
+            text-align: center;
+        }
+
+        /* Part 2: Letter Content */
+        .letter-type {
+            text-align: right;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            font-size: 10pt;
+            color: var(--secondary-color);
+        }
+
+        .letter-meta {
+            margin-bottom: 2rem;
+            font-size: 11pt;
+        }
+
+        .date-section {
+            margin-bottom: 1.5rem;
+        }
+
+        .address-box {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 2rem;
+            gap: 2rem;
+        }
+
+        .address-item {
+            flex: 1;
+        }
+
+        .address-item h3 {
+            font-size: 10pt;
+            margin: 0 0 0.5rem 0;
+            color: var(--secondary-color);
+            text-transform: uppercase;
+            border-bottom: 1px solid var(--border-color);
+            display: inline-block;
+        }
+
+        .address-content {
+            font-weight: 600;
+        }
+
+        .subject-line {
+            margin-bottom: 1.5rem;
+            padding: 0.75rem;
+            background-color: #f8f9fa;
+            border: 1px solid var(--border-color);
+        }
+
+        .subject-line strong {
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .references {
+            font-size: 10pt;
+            margin-bottom: 1.5rem;
+            list-style: none;
+            padding: 0;
+        }
+
+        .references li {
+            margin-bottom: 0.25rem;
+        }
+
+        .letter-body {
+            font-size: 11pt;
+            text-align: justify;
+        }
+
+        .letter-body p {
+            margin-bottom: 1rem;
+        }
+
+        .grounds-section {
+            margin: 1.5rem 0;
+        }
+
+        .ground-item {
+            margin-bottom: 1.5rem;
+        }
+
+        .ground-header {
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .ground-details {
+            padding-left: 1.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .demand-section {
+            margin: 2rem 0;
+            border: 2px solid var(--primary-color);
+            padding: 1.5rem;
+        }
+
+        .demand-header {
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            text-decoration: underline;
+        }
+
+        .demand-list {
+            padding-left: 1.5rem;
+        }
+
+        .demand-list li {
+            margin-bottom: 0.75rem;
+        }
+
+        .signature-section {
+            margin-top: 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        .signature-box {
+            text-align: center;
+        }
+
+        .signature-line {
+            border-top: 1px solid var(--primary-color);
+            width: 250px;
+            margin-bottom: 0.5rem;
+        }
+
+        .print-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 12px 24px;
+            background: #1a1a1a;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-family: inherit;
+            font-weight: 600;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        @media print {
+            .print-btn {
+                display: none;
+            }
+
+            body {
+                background: transparent;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- PAGE 1: INDEX -->
+        <div class="page-break">
+            <div class="index-header">
+                <h1>Part 1: Index of Documents</h1>
+            </div>
+
+            <table class="index-table">
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Name of Document</th>
+                        <th>Type of Document</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Chiro Healthcare LLP Agreement (Oct 2023)</td>
+                        <td>Partnership Deed</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Jivaakaw Sri Healthcare Deed (Oct 2023)</td>
+                        <td>Partnership Deed</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Registered Lease Deed (15 Dec 2023 / 19 Dec 2023)</td>
+                        <td>Rental Agreement (Reg No: 11582303374)</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>Resignation Email (12 Mar 2025)</td>
+                        <td>Email Correspondence</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>Reply Email from Dr. Vamsi (18 Jun 2025)</td>
+                        <td>Admission of Taiyo Labs</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>Follow-up Email regarding Audit (10 Jul 2025)</td>
+                        <td>Email Correspondence</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>Email regarding ₹80L Loan & Machinery (17 Jul 2025)</td>
+                        <td>Financial Discrepancy Record</td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>Email regarding Police Complaint (17 Aug 2025)</td>
+                        <td>Record of Harassment</td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>Legal Notice from Adv. Gangadhar Padhi (09 Jun 2025)</td>
+                        <td>Demand for Rent</td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>Legal Notice from Adv. Ansuman Padhi (07 Jan 2026)</td>
+                        <td>Final Eviction & Arrears Notice</td>
+                    </tr>
+                    <tr>
+                        <td>11</td>
+                        <td>Form 19/19C Drug License Application</td>
+                        <td>Government Registration</td>
+                    </tr>
+                    <tr>
+                        <td>12</td>
+                        <td>Bank Statements</td>
+                        <td>Proof of Fund Diversion & Salaries</td>
+                    </tr>
+                    <tr>
+                        <td>13</td>
+                        <td>Loan/Machinery Invoices</td>
+                        <td>Proof of Missing Assets</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- PAGE 2: THE LETTER -->
+        <div class="letter-page">
+            <div class="letter-type">Registered Post with A/D</div>
+
+            <div class="date-section">
+                <strong>Date:</strong> February 08, 2026
+            </div>
+
+            <div class="address-box">
+                <div class="address-item">
+                    <h3>From:</h3>
+                    <div class="address-content">
+                        S. Lokanath Patro<br>
+                        Resident Director/Partner<br>
+                        Flat No. 301, Block-B, Sri S.R. Towers,<br>
+                        College Road, Rayagada, Odisha - 765001
+                    </div>
+                </div>
+                <div class="address-item">
+                    <h3>To:</h3>
+                    <div class="address-content">
+                        Dr. Chilukuri Sai Sampath Vamsi<br>
+                        Managing Partner<br>
+                        50-50-18/2, Neeladri Heights, 1st Floor,<br>
+                        TPT Colony, Seethamadhara, Visakhapatnam,<br>
+                        Andhra Pradesh - 530013
+                    </div>
+                </div>
+            </div>
+
+            <div class="subject-line">
+                <strong>SUBJECT: FINAL NOTICE OF RESIGNATION, DEMAND FOR REFUND OF CAPITAL, AND NOTICE OF BREACH OF
+                    PARTNERSHIP AGREEMENT</strong>
+            </div>
+
+            <ul class="references">
+                <li><strong>Ref 1:</strong> Chiro Healthcare LLP (LLPIN: ACD-5569) - Deed dated Oct 2023</li>
+                <li><strong>Ref 2:</strong> Jivaakaw Sri Healthcare - Unregistered Notarized Deed dated 11.02.2023</li>
+                <li><strong>Ref 3:</strong> Registered Lease Deed No. 11582303374 dated 19.12.2023 (10 Year Term)</li>
+            </ul>
+
+            <div class="letter-body">
+                <p>Respected Sir,</p>
+                <p>I am writing this letter to formally reiterate my resignation from Chiro Healthcare LLP and Jivaakaw
+                    Sri Healthcare, originally tendered on February 13, 2025 [4], and to demand the immediate
+                    settlement of my accounts. Despite our partnership agreements clearly defining my stake as 49% in
+                    Chiro Healthcare LLP and 50% in Jivaakaw Sri Healthcare (with an initial capital contribution of
+                    ₹2,00,000 each) [1, 2], your management of these firms has caused severe financial loss to me.</p>
+
+                <p>Below are the specific grounds for this notice and the documented breaches of our agreement:</p>
+
+                <div class="grounds-section">
+                    <div class="ground-item">
+                        <div class="ground-header">1. Unauthorized Establishment of Taiyo Labs & Diversion of Revenue
+                        </div>
+                        <div class="ground-details">
+                            You have utilized the infrastructure, premises, and resources of our joint firms to
+                            establish a separate entity, Taiyo Labs, without my permission.
+                            <ul>
+                                <li>In your email dated 18 June 2025 [5], you explicitly admitted that your intention
+                                    was to establish the Taiyo Labs business independently.</li>
+                                <li>The building owners have legally notified us [9, 10] that Taiyo Labs has no privity
+                                    of contract with them and is occupying the premises unlawfully, constituting a
+                                    trespass. You have even placed the "Taiyo Labs Business Board" on the premises
+                                    without my consent or any legal license.</li>
+                                <li>I have documented proof that revenue generated by our firms at Rayagada is being
+                                    diverted to your personal/Taiyo Labs accounts in Vizag specifically via **UPI
+                                    transactions** [12].</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="ground-item">
+                        <div class="ground-header">2. Default on Rent and Legal Consequences</div>
+                        <div class="ground-details">
+                            Despite diverting revenue to your personal accounts, you have failed to pay rent for the
+                            Rayagada premises for over a year.
+                            <ul>
+                                <li>We entered a Lease Deed on 15 December 2023 with a monthly rent of ₹60,000 [3].</li>
+                                <li>Due to your default, I have received multiple Legal Notices, the latest being from
+                                    Advocate Ansuman Padhi on 07 January 2026 [10], demanding arrears of ~₹15Lakhs.
+                                </li>
+                                <li>The landlord has filed a Police Complaint regarding this non-payment [8], and I was
+                                    forced to face police inquiries on 17 August 2025 [8] despite having resigned months
+                                    earlier.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="ground-item">
+                        <div class="ground-header">3. Misappropriation of ₹80 Lakh Loan and Missing Assets</div>
+                        <div class="ground-details">
+                            There is a complete lack of transparency regarding the ₹80 Lakh loan taken for the LLP [7].
+                            <ul>
+                                <li>An amount of ₹30 Lakhs was purportedly paid as an advance for an Ultrasound Machine,
+                                    yet this machine is not present at the Rayagada site.</li>
+                                <li>It has come to my notice that this equipment was either never purchased or was
+                                    subsequently moved to your Taiyo Labs Vizag branch without my consent.</li>
+                                <li>No receipts for the purchase of these equipments were ever shown to me, and I have
+                                    attached relevant financial documents highlighting these missing funds [13].</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="ground-item">
+                        <div class="ground-header">4. Unauthorized Salaries and Discriminatory Practices</div>
+                        <div class="ground-details">
+                            You have authorized high salaries to employees Laxman (₹50,000/PM) and Gangadhar
+                            (₹30,000/PM) who were not officially appointed by the LLP, while I, as the Resident Partner,
+                            have not received my due remuneration [12].
+                        </div>
+                    </div>
+
+                    <div class="ground-item">
+                        <div class="ground-header">5. Non-Acceptance of Resignation</div>
+                        <div class="ground-details">
+                            I submitted my resignation on 12 March 2025 [4] citing personal financial exigencies. You
+                            replied on 18 June 2025 [5] stating my resignation was "NOT ACCEPTED" pending an audit. It
+                            has
+                            now been over a year, and you have failed to complete said audit or release my funds,
+                            holding me hostage to liabilities you are incurring.
+                        </div>
+                    </div>
+
+                    <div class="ground-item">
+                        <div class="ground-header">6. Breach of Accounting Clauses</div>
+                        <div class="ground-details">
+                            As per the terms of our agreement, business accounts must be prepared within six months
+                            of the March financial year-end. No such accounts have been shared or maintained
+                            transparently
+                            by your staff/accountant, in direct violation of Clause 66 of the LLP Agreement [1].
+                        </div>
+                    </div>
+
+                    <div class="ground-item">
+                        <div class="ground-header">7. Lack of Communication and Response</div>
+                        <div class="ground-details">
+                            I have repeatedly attempted to contact you via various sources, including phone calls and
+                            emails, to resolve these matters amicably. However, you have persistently failed to respond,
+                            leaving me with no choice but to issue this formal legal notice.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="demand-section">
+                    <div class="demand-header">DEMAND:</div>
+                    <p>In light of the above, I demand that you perform the following actions:</p>
+                    <ol class="demand-list">
+                        <li><strong>Formally Accept my Resignation</strong> effective from the original date of notice
+                            (12 March 2025).</li>
+                        <li><strong>Refund my Capital Contribution</strong> and my share of the assets immediately to
+                            support my son’s business.</li>
+                        <li><strong>Clear the Rent Arrears </strong> to the building owner immediately to
+                            indemnify me from further legal/police action.</li>
+                        <li><strong>Provide a Forensic Audit Report</strong> of the ₹80 Lakh loan utilization.</li>
+                    </ol>
+                </div>
+
+                <p>Failure to comply will leave me no choice but to initiate legal proceedings against you for breach
+                    of trust, fraud, and misappropriation of funds.</p>
+
+                <div class="signature-section">
+                    <p>Yours faithfully,</p>
+                    <div class="signature-box">
+                        <div class="signature-line"></div>
+                        <strong>(S. Lokanath Patro)</strong><br>
+                        Partner/Resident Director
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button class="print-btn" onclick="window.print()">Print to PDF</button>
+
+</body>
+
+</html>
